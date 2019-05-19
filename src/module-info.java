@@ -1,2 +1,0 @@
-module new_git {
-}
